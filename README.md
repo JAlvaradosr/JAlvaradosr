@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JAlvaradosr
 - 👀 I’m interested in front end web development.
-- 🌱 I’m currently learning SASS and React
+- 🌱 I’m currently learning SASS and React.js
 - 📫 Reach me at info@alvaradowebdesign.com
 
 <!---
